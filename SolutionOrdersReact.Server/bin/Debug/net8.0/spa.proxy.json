@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:62682",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\mankf\\Desktop\\MobilneAplikacje\\SolutionOrdersReact\\SolutionOrdersReact.Server\\..\\solutionordersreact.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
